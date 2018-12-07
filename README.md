@@ -3,6 +3,6 @@
 ## How to run it
 
 ### in console
-#### 1. npm install
-#### 2. npm start
+npm install
+npm start
               ####- for run
