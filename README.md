@@ -4,8 +4,8 @@
 
 ### in console
 ```javascript
-npm install
-npm start
-```
+npm install - for install all dependencies
+npm start - for build, run tests and run dev web server (webpack-dev-server)
 
-              ####- for run
+app is running on localhost:8080
+```    
